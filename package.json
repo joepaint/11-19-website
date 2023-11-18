@@ -4,6 +4,9 @@
     "yuka": "^0.7.8"
   },
   "devDependencies": {
+    "gh-pages": "^6.0.0",
     "vite": "^4.4.11"
   }
+  
 }
+
