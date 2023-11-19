@@ -1,5 +1,5 @@
-import * as THREE from 'three';
-import * as YUKA from 'yuka';
+import * as THREE from './node_modules/three/build/three.module.js';
+//import * as YUKA from 'yuka';
 import {GLTFLoader} from 'three/examples/jsm/loaders/GLTFLoader';
 
 
